@@ -1,2 +1,6 @@
 # Treino-de-python
-Aprendizado de faculdade.
+
+Apenas treinos para a dominância da linguagem.
+
+Livros que li:
+
